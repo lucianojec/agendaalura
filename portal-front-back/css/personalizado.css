@@ -1,0 +1,31 @@
+body {
+	margin: 40px 10px;
+	padding: 0;
+	font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+	font-size: 14px;
+}
+
+#calendar {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.visualizar{
+	display: block;
+}
+
+.form{
+	display: none;
+}
+
+#saudacao {
+    color: rgb(53, 88, 202);
+    font-family: Arial;
+    font-size: 20px;
+}
+
+#titulo {
+    color: rgb(2, 2, 2);
+    font-family: Arial;
+    font-size: 20px;
+}
